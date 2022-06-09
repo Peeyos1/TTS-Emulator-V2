@@ -8,8 +8,8 @@ The API in use has been graciously provided by <a href="https://github.com/style
 
 # Disclaimer
 
-This application was not originally developed by me but I've fixed it up a bit and added a decent design to accommodate my OCD.
-If you know the original developer of this program, please contact me via Discord so I can give them proper credit.
+This version is an improved version of the original TTS reader, giving the user much more features.
+Credit goes to 5E7EN (Simon) for the reader, and whoever made the original version.
 <br>
 <br>
 <img src="https://tts.5E7EN.me/xqcL.png" alt="xqcL" height="30" width="30">
